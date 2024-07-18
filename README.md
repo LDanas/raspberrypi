@@ -19,3 +19,5 @@ With the help of the NAS from both PC's, I'm now able to take pictures from the 
 Also, here's a picture of my cat
 
 ![image](https://github.com/user-attachments/assets/199b460b-62b0-4fbc-8410-3e8d84a62f62)
+
+![test](https://github.com/user-attachments/assets/3f4ab9f0-eb2c-4ee8-af61-7867057818c2)
