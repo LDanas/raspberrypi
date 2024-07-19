@@ -12,7 +12,6 @@ Currently, I'm still thinking of what to do with it . . .
 
 —————————————————————
 ————————————————————— 2024/07/18
-—————————————————————
 
 I installed a fswebcam module onto the Raspberry Pi, got a camera from my brother's room, and used it to connect it into one of the USB ports within the Pi. 
 
@@ -28,7 +27,6 @@ I now consider myself a professional photographer 😎
 
 —————————————————————
 ————————————————————— 2024/07/19
-—————————————————————
 
 # Raspberry Pi-hole Adblock
 
