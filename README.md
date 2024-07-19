@@ -47,6 +47,7 @@ So I also created a new webpage just cause I was a bit bored. Of course my best 
 
 So, besides that, I made a Webpage Host for me locally, so that if I ever want to, I could just go to my bookmarks in Opera, and just turn on to see how's the Raspberry doing. Of course I could do that through Pi-holes made admin website, but I just thought I'd do something original a bit. 
 
-[![YouTube Video](https://youtu.be/lj41x1Znwgw.jpg)](https://youtu.be/lj41x1Znwgw)
+[![YouTube Video](https://github.com/user-attachments/assets/fb64f906-210a-401c-8fb8-ce3669c5b0a2)](https://youtu.be/lj41x1Znwgw)
 
 Which you can check above ↑
+
