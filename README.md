@@ -10,7 +10,9 @@ This is a repository dedicated on what I have done with my Raspberry that I rece
 
 Currently, I'm still thinking of what to do with it . . .
 
+—————————————————————
 ————————————————————— 2024/07/18
+—————————————————————
 
 I installed a fswebcam module onto the Raspberry Pi, got a camera from my brother's room, and used it to connect it into one of the USB ports within the Pi. 
 
@@ -24,7 +26,9 @@ Also, here's a picture of my cat
 
 I now consider myself a professional photographer 😎
 
+—————————————————————
 ————————————————————— 2024/07/19
+—————————————————————
 
 # Raspberry Pi-hole Adblock
 
@@ -36,3 +40,13 @@ until I found out I have to change the DNS on my router settings within Fritzbox
 ![image](https://github.com/user-attachments/assets/e48b3108-a4b4-4c02-819f-1d1dd27e57c2)
 
 Of course it doesn't work THAT well when you go to like [Can you block it](https://canyoublockit.com/) But it still works if you watch like the news on the internet or stuff like that. Still, I like it though.
+
+——————————————————————————————————————————
+
+So I also created a new webpage just cause I was a bit bored. Of course my best friend ChatGPT helped me over here, but that's what using technology is like, AI really is somethin' useful if you've got the logical brains to explain what you want it to do.
+
+So, besides that, I made a Webpage Host for me locally, so that if I ever want to, I could just go to my bookmarks in Opera, and just turn on to see how's the Raspberry doing. Of course I could do that through Pi-holes made admin website, but I just thought I'd do something original a bit. 
+
+[![IMAGE ALT TEXT HERE]([https://youtu.be/lj41x1Znwgw.jpg)](https://youtu.be/lj41x1Znwgw)
+
+Which you can check above ↑
